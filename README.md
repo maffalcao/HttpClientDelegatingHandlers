@@ -1,0 +1,1 @@
+Delegating handlers function similarly to ASP.NET Core middleware, but they operate within the context of the HttpClient. In the ASP.NET Core request pipeline, middleware enables the incorporation of custom functionality. Through middleware, various cross-cutting concerns such as logging, tracing, validation, authentication, and authorization can be addressed effectively.
