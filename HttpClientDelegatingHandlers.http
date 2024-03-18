@@ -1,6 +1,0 @@
-@HttpClientDelegatingHandlers_HostAddress = http://localhost:5015
-
-GET {{HttpClientDelegatingHandlers_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
