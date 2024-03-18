@@ -1,4 +1,4 @@
-namespace HttpClientDelegatingHandlers.Handlers;
+namespace HttpClientDelegatingHandlers.DelegatingHandlers;
 
 public class LoggingDelegatingHandler(ILogger<LoggingDelegatingHandler> logger)
     : DelegatingHandler
