@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lo42w50O+3VxdDRlx/c1w2tjwtPJ1FvSIEq6aNxSXAba9zu11+bFX+FFIFVFGltqjoBTQqwNNBfY7m2GItpVcQ==",
+  "dgSpecHash": "t0lyDDS3/FwpAgGCtZIqfCQkW0nGRMpTZY1PD1c1CbgTAkB6SQpPJpP467X3cnHp+LPq4ucp11S8cSgEURIPDw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
+  "projectFilePath": "c:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maffa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "C:\\Users\\maffa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

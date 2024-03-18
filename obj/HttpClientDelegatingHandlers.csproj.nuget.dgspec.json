@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj": {}
+    "c:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj": {}
   },
   "projects": {
-    "C:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj": {
+    "c:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
+        "projectUniqueName": "c:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
         "projectName": "HttpClientDelegatingHandlers",
-        "projectPath": "C:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
+        "projectPath": "c:\\Git\\HttpClientDelegatingHandlers\\HttpClientDelegatingHandlers.csproj",
         "packagesPath": "C:\\Users\\maffa\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\HttpClientDelegatingHandlers\\obj\\",
+        "outputPath": "c:\\Git\\HttpClientDelegatingHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maffa\\AppData\\Roaming\\NuGet\\NuGet.Config",
