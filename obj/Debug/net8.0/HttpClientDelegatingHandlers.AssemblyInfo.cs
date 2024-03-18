@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpClientDelegatingHandlers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6613ec4d5a488eef9339685ca1dde61f3ea49caa")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpClientDelegatingHandlers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpClientDelegatingHandlers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
